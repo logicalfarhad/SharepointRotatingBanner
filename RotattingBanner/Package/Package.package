@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="098dfc75-c439-4159-b439-b28ead31ee1a" solutionId="098dfc75-c439-4159-b439-b28ead31ee1a" resetWebServer="false" sharePointProductVersion="15.0" name="RotattingBanner" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="bf597ed3-9c3c-485c-85b5-52394d295315" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="71234374-8185-49e1-8725-d34e7956d918" />
+  </projectItems>
+</package>
